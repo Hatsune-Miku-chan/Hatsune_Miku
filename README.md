@@ -1,2 +1,2 @@
 # Hatsune_Miku
-Hatsune_Miku-Bot esperando ser el mejor bot de WhatsApp 
+Hatsune_Miku-Bot esperando ser el mejor bot de WhatsApp aun en desarrollo 
