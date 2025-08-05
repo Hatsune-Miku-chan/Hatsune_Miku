@@ -9,24 +9,30 @@ Hatsune_Miku-Bot esperando ser el mejor bot de WhatsApp aun en desarrollo
 
 Copia y pega los siguientes comandos:
 
-bash
+•bash
+
 termux-setup-storage
 
-bash
+•bash
+
 apt update && apt upgrade
 
-bash 
+•bash 
+
 git clone https://github.com/Hatsune-Miku-chan/Hatsune_Miku
 
-bash
+•bash
+
 
 npm install
 
-bash
+•bash
+
 
 cd Hatsune-Miku_Bot
 
-bash 
+•bash 
+
 
 npm start
 
@@ -35,7 +41,8 @@ npm start
 
 cd Hatsune-Miku_Bot
 
-bash
+•bash
+
 npm start
 
 
