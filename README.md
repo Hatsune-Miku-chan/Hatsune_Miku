@@ -21,10 +21,6 @@ apt update && apt upgrade
 
 git clone https://github.com/Hatsune-Miku-chan/Hatsune_Miku
 
-•bash
-
-
-npm install
 
 •bash
 
