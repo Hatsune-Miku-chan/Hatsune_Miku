@@ -23,6 +23,17 @@ git clone https://github.com/Hatsune-Miku-chan/Hatsune_Miku
 
 
 •bash
+yarn install
+
+•bash 
+
+npm install
+
+•bash 
+
+npm update
+
+•bash
 
 
 cd Hatsune-Miku_Bot
